@@ -1,0 +1,84 @@
+<svg viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left pages — 3 stacked layers, lightest on top -->
+  <path d="M80 118 C71 110 53 105 26 108 L26 126 C53 123 70 126 80 133 Z" fill="#6C63FF"/>
+  <path d="M80 114 C69 104 49 99 22 102 L23 120 C50 117 68 121 80 128 Z" fill="#7D76FF"/>
+  <path d="M80 110 C67 98 45 93 18 97 L20 115 C47 112 65 117 80 124 Z" fill="#918BFF"/>
+
+  <!-- Right pages — mirror -->
+  <path d="M80 118 C89 110 107 105 134 108 L134 126 C107 123 90 126 80 133 Z" fill="#6C63FF"/>
+  <path d="M80 114 C91 104 111 99 138 102 L137 120 C110 117 92 121 80 128 Z" fill="#7D76FF"/>
+  <path d="M80 110 C93 98 115 93 142 97 L140 115 C113 112 95 117 80 124 Z" fill="#918BFF"/>
+
+  <!-- Book cover base -->
+  <path d="M38 124 Q80 120 122 124 L122 138 Q80 134 38 138 Z" fill="#4E47C0" rx="6"/>
+
+  <!-- Spine -->
+  <rect x="76" y="117" width="8" height="22" rx="3" fill="#3D37A8"/>
+
+  <!-- ─── CRESCENT MOON ─── -->
+  <!-- Outer circle minus inner offset circle = crescent -->
+  <path d="M100 20
+    C88 20 78 30 78 43
+    C78 56 88 66 100 66
+    C93 66 87 56 87 43
+    C87 30 93 20 100 20 Z"
+    fill="#FFBB33"/>
+
+  <!-- ─── SPARKLE STARS (4-pointed diamond) ─── -->
+
+  <!-- Large sparkle — upper left -->
+  <path d="M49 58
+    L52.5 49 L56 58
+    L65 61.5 L56 65
+    L52.5 74 L49 65
+    L40 61.5 Z" fill="#FFBB33"/>
+
+  <!-- Medium sparkle — centre-left -->
+  <path d="M58 87
+    L60.5 81 L63 87
+    L69 89.5 L63 92
+    L60.5 98 L58 92
+    L52 89.5 Z" fill="#FFBB33"/>
+
+  <!-- Medium sparkle — upper centre -->
+  <path d="M76 46
+    L78.5 40 L81 46
+    L87 48.5 L81 51
+    L78.5 57 L76 51
+    L70 48.5 Z" fill="#FFBB33"/>
+
+  <!-- Medium sparkle — right mid -->
+  <path d="M101 78
+    L103.5 72 L106 78
+    L112 80.5 L106 83
+    L103.5 89 L101 83
+    L95 80.5 Z" fill="#FFBB33"/>
+
+  <!-- Small sparkle — upper right -->
+  <path d="M110 49
+    L112 44 L114 49
+    L119 51 L114 53
+    L112 58 L110 53
+    L105 51 Z" fill="#FFBB33"/>
+
+  <!-- Small sparkle — centre -->
+  <path d="M69 67
+    L71 62 L73 67
+    L78 69 L73 71
+    L71 76 L69 71
+    L64 69 Z" fill="#FFBB33"/>
+
+  <!-- Tiny sparkle — lower right -->
+  <path d="M90 97
+    L91.5 93 L93 97
+    L97 98.5 L93 100
+    L91.5 104 L90 100
+    L86 98.5 Z" fill="#FFBB33"/>
+
+  <!-- ─── DOTS ─── -->
+  <circle cx="88"  cy="75"  r="3.5" fill="#FFBB33"/>
+  <circle cx="116" cy="90"  r="3.5" fill="#FFBB33"/>
+  <circle cx="61"  cy="47"  r="2.5" fill="#FFBB33"/>
+  <circle cx="95"  cy="58"  r="2.5" fill="#FFBB33"/>
+  <circle cx="55"  cy="76"  r="2"   fill="#FFBB33"/>
+</svg>
